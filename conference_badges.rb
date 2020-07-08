@@ -14,5 +14,5 @@ end
 def assigns_rooms()
   counter = 0
   n_array = []
-  
+  array.each do
 end
