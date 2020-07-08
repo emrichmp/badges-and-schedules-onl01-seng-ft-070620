@@ -20,3 +20,4 @@ def assigns_rooms()
   end
   return n_array
 end
+
