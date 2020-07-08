@@ -21,4 +21,6 @@ def assigns_rooms()
   return n_array
 end
 
-def printer
+def printer(array)
+  
+end
