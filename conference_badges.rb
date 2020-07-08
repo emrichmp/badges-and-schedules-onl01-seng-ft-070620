@@ -16,4 +16,5 @@ def assigns_rooms()
   n_array = []
   array.each do |name|
     
+  end
 end
