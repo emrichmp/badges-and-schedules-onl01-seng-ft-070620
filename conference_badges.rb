@@ -11,7 +11,7 @@ def batch_badge_creator(array)
   return n_array
 end
 
-def assigns_rooms()
+def assign_rooms()
   counter = 0
   n_array = []
   array.each do |name|
@@ -25,7 +25,7 @@ def printer(array)
   batch_badge_creator(array).each do |id|
     puts id
   end
-  assigns_rooms(array).each do |id|
+  assign_rooms(array).each do |id|
     puts id
   end
 end
